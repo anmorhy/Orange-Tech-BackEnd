@@ -10,9 +10,9 @@ O que falta para você se tornar um desenvolvedor Java e começar 2023 com uma f
 ## ✨Desafios
 
 <div align="left">
-    <table border=1>
-        <tr>
-            <th colspan="3"><a href="">Desafio Java - Orange Tech BackEnd</a></th>
+    <table border=1> 
+    <tr>
+        <th colspan="3">Dominando Algoritmos Java Básico</th>
         </tr>
         <tr>
             <th>Desafio</th>
@@ -20,31 +20,28 @@ O que falta para você se tornar um desenvolvedor Java e começar 2023 com uma f
             <th>Status</th>
         </tr>
         <tr>
-            <th colspan="3">Dominando Algoritmos Java Básico</th>
-        </tr>
-        <tr>
             <td>Mesada do Sobrinho</td>
-            <td><a href="">Código</a></td>
+            <td><a href="https://github.com/anmorhy/Orange-Tech-BackEnd/tree/master/Desafios/Mesada%20do%20Sobrinho">Código</a></td>
             <td align="center">✔️</td>
         </tr>    
         <tr>
             <td>Download de Pacotes</td>
-            <td><a href="" >Código</a></td>
+            <td><a href="https://github.com/anmorhy/Orange-Tech-BackEnd/tree/master/Desafios/Download%20de%20Pacotes" >Código</a></td>
             <td align="center">✔️</td>
         </tr> 
         <tr>
             <td>Leitura da Gertrudes</td>
-            <td><a href="">Código</a></td>
+            <td><a href="https://github.com/anmorhy/Orange-Tech-BackEnd/tree/master/Desafios/Leitura%20de%20Gertrudes">Código</a></td>
             <td align="center">✔️</td>
         </tr>       
         <tr>
             <td>Lojinha de Doces</td>
-            <td><a href="">Código</a></td>
+            <td><a href="https://github.com/anmorhy/Orange-Tech-BackEnd/tree/master/Desafios/Lojinha%20de%20Doces">Código</a></td>
             <td align="center">✔️</td>
         </tr>  
         <tr>
             <td>Industria da Multa</td>
-            <td><a href="">Código</a></td>
+            <td><a href="https://github.com/anmorhy/Orange-Tech-BackEnd/tree/master/Desafios/Industria%20da%20Multa">Código</a></td>
             <td align="center">✔️</td>
         </tr>                                 
     </table>  
